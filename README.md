@@ -4,7 +4,7 @@
 * [Tutorials](#Tutorials)
 
 ## Data ##
-Two seismic volumes in SEGY file format from the [F3 dataset, offshore Netherlands](https://terranubis.com/datainfo/Netherlands-Offshore-F3-Block-Complete), licensed CC-BY-SA: a similarity volume, and an amplitude volume (with dip steered median filter smoothing applied)
+Two seismic volumes in SEGY format from the [F3 dataset, offshore Netherlands](https://terranubis.com/datainfo/Netherlands-Offshore-F3-Block-Complete), licensed CC-BY-SA: a similarity volume, and an amplitude volume (with dip steered median filter smoothing applied)
 
 ## Tutorials ##
 A set of Jupyter notebook tutorials of increasing complexity.
