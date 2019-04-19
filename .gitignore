@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+# Data not to be uploaded
+data/pylops/Kerry3D.segy
+data/pylops/Kerry3D_inverted.segy
