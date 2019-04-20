@@ -1,0 +1,10 @@
+numpy>=1.15.0
+scipy
+pyfftw
+matplotlib
+ipython
+jupyter
+numba
+segyio
+pylops
+
