@@ -29,6 +29,11 @@ Tutorials are organized in subfolders of the ``notebooks`` directory as follows:
   amplitude time slices with superimposed faults; write the fault volume to
   SEG-Y file using re-using the headers from the input file.
 
+- [02 - Basic tutorial](notebooks/basic/02_segy_quicklook.ipynb) - demonstrate how to 
+  transfer binary and trace headers in pandas dataframes and visualize headers and data
+  with matplotlib
+
+
 **PyLops**
 
 - [01 - Seismic inversion with segyio and pylops](notebooks/pylops/01_seismic_inversion.ipynb) - demonstrate how to download and 
@@ -43,10 +48,13 @@ in the correct subdirectory of ``data``.
 
 **Basic**
 
-Two seismic volumes in SEGY format from the [F3 dataset, offshore
-Netherlands](https://terranubis.com/datainfo/Netherlands-Offshore-F3-Block-Complete),
-licensed CC-BY-SA: a similarity volume, and an amplitude volume (with dip
-steered median filter smoothing applied)
+- Two seismic volumes in SEGY format from the [F3 dataset, offshore
+  Netherlands](https://terranubis.com/datainfo/Netherlands-Offshore-F3-Block-Complete),
+  licensed CC-BY-SA: a similarity volume, and an amplitude volume (with dip
+  steered median filter smoothing applied)
+
+- A 2D seismic line from the [USGS NPRA Seismic Data Archive](http://energy.usgs.gov/GeochemistryGeophysics/SeismicDataProcessingInterpretation/NPRASeismicDataArchive.aspx)
+
 
 **PyLops**
 
