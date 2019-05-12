@@ -29,9 +29,13 @@ Tutorials are organized in subfolders of the ``notebooks`` directory as follows:
   amplitude time slices with superimposed faults; write the fault volume to
   SEG-Y file using re-using the headers from the input file.
 
-- [02 - Basic tutorial](notebooks/basic/02_segy_quicklook.ipynb) - demonstrate how to 
+- [02 - Segy quicklook](notebooks/basic/02_segy_quicklook.ipynb) - demonstrate how to 
   transfer binary and trace headers in pandas dataframes and visualize headers and data
   with matplotlib
+
+- [03 - Basic Segy editing](notebooks/basic/03_basic_segy_editing.ipynb) - demonstrate how 
+  to perform manipulations of traces length, both resampling and cutting.
+
 
 
 **PyLops**
