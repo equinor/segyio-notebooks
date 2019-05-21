@@ -5,6 +5,7 @@ matplotlib
 ipython
 jupyter
 numba
+azure-cli
 segyio
 pylops
 

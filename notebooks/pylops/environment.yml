@@ -14,5 +14,6 @@ dependencies:
   - numba
   - icc_rt
   - pip:
+    - azure-cli
     - segyio
     - pylops

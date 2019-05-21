@@ -12,3 +12,5 @@ __pycache__/
 # Data not to be uploaded
 data/pylops/Kerry3D.segy
 data/pylops/Kerry3D_inverted.segy
+data/pylops/ST10010ZC11_PZ_PSDM_KIRCH_FAR_D.MIG_FIN.POST_STACK.3D.JS-017536.segy
+data/pylops/ST10010ZC11_PZ_PSDM_KIRCH_FAR_D.MIG_FIN.POST_STACK.3D.JS-017536_inverted.segy
